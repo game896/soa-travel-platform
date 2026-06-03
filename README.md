@@ -72,7 +72,3 @@ The system is designed using **microservices architecture** with clear separatio
 This project is being developed as part of a university course with strict requirements regarding microservices, Docker, NoSQL, RPC, and observability.
 
 ---
-
-**Ready to copy-paste!**
-
-Ako želiš neke izmene (npr. da dodam konkretne tehnologije koje već koristite, da promenim redosled, ili da napravim verziju na srpskom jeziku), samo kaži.
